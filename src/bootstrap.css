@@ -259,7 +259,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Regular';
-  src: url('fonts/glyphicons-regular.woff2') format('woff2');
+  src: url('https://angular-ivy-fqdhva.stackblitz.io/assets/glyphicons-regular.woff')
+    format('woff');
 }
 .glyphicon {
   position: relative;

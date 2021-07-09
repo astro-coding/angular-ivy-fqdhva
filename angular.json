@@ -24,9 +24,7 @@
             ],
             "styles": [
               "src/styles.css",
-              "src/bootstrap.css",
-              "src/fonts/glyphicons.css",
-              "src/fonts/glyphicons20.css"
+              "src/bootstrap.css"
             ],
             "scripts": []
           },
